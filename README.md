@@ -6,7 +6,7 @@ Piezas que diseñé e imprimí en 3D. GitHub las muestra en 3D: abre cualquier `
 |---|---|
 | `cable-holder.stl` | Soporte para cables |
 | `outlet-cover.stl` | Tapa para tomacorriente |
-| `charger-cover.stl` | Tapa para cargador (adaptador de corriente de Apple) |
+| `charger-cover.stl` | Tapa para cargador (adaptador de corriente de Apple) con espacio para un candado, para que no me lo roben |
 | `cable-cover.3mf` | Tapa para cable (proyecto 3MF listo para imprimir) |
 | `hallway-cover-v2.f3d` | Tapa del pasillo, versión 2 (diseño editable de Fusion 360) |
 | `dining-room-cover-v2.f3d` | Tapa del comedor, versión 2 (diseño editable de Fusion 360) |
