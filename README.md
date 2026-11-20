@@ -10,6 +10,7 @@ Piezas que diseñé e imprimí en 3D. GitHub las muestra en 3D: abre cualquier `
 | `cable-cover.3mf` | Tapa para cable (proyecto 3MF listo para imprimir) |
 | `hallway-cover-v2.f3d` | Tapa del pasillo, versión 2 (diseño editable de Fusion 360) |
 | `dining-room-cover-v2.f3d` | Tapa del comedor, versión 2 (diseño editable de Fusion 360) |
+| `grill-slow-and-sear.dwg` | Cesta para ahumar a fuego lento hecha a la medida exacta de mi asador (dibujo de AutoCAD) |
 
 Los `.stl` y `.3mf` son para imprimir; los `.f3d` son los diseños originales que puedes abrir y modificar en Fusion 360.
 
